@@ -1,0 +1,7 @@
+{
+    "records": [],
+    "resources": [{
+        "location": "Service Descriptors/fileprocessing.module.Process-getHello.json",
+        "type": "generated"
+    }]
+}
